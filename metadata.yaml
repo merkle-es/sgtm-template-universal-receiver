@@ -1,0 +1,5 @@
+homepage: "https://www.merkle.com/es.html"
+documentation: "https://github.com/merkle-es/sgtm-template-universal-receiver"
+versions:
+  - sha: 55281f97c9b593331467ee7d672b59f7438d8679
+    changeNotes: first commit
